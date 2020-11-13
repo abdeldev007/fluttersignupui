@@ -30,7 +30,6 @@ the UI design is inspired by me , i just tried to be creative in designing UIs f
  
  SCREENSHOTS
 
-<img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s2.png" width="40%">
 <img src="https://github.com/abdeldev007/fluttersignupui/blob/main/s1.jpg" width="30%">
 <img src="https://github.com/abdeldev007/fluttersignupui/blob/main/s2.jpg" width="30%">
 <img src="https://github.com/abdeldev007/fluttersignupui/blob/main/s3.jpg" width="30%">
