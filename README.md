@@ -25,8 +25,20 @@ the UI design is inspired by me , i just tried to be creative in designing UIs f
   
 ![alt text](https://github.com/abdeldev007/fluttersignupui/blob/main/banner.jpg)
  
- THE RESULT
 
-<img src="https://github.com/abdeldev007/bmi_calculator/blob/master/screentax.png" width="40%">
+ <div align="center">
+ 
+ SCREENSHOTS
 
- </div>
+<img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s2.png" width="40%">
+<img src="https://github.com/abdeldev007/fluttersignupui/blob/main/s1.jpg" width="30%">
+<img src="https://github.com/abdeldev007/fluttersignupui/blob/main/s2.jpg" width="30%">
+<img src="https://github.com/abdeldev007/fluttersignupui/blob/main/s3.jpg" width="30%">
+
+
+  </div>
+
+
+
+
+ 
