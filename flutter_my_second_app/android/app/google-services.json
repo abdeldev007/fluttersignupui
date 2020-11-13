@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "159815051722",
+    "firebase_url": "https://flutterquizers.firebaseio.com",
+    "project_id": "flutterquizers",
+    "storage_bucket": "flutterquizers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159815051722:android:9879892bd4754aed6a8733",
+        "android_client_info": {
+          "package_name": "com.abdev.quizers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159815051722-qs9463vm74n9e8419c99eg4p1aioqkmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Mlf0JwQjfiLzLhmUGSLmsNJaJN2KENU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159815051722-qs9463vm74n9e8419c99eg4p1aioqkmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159815051722:android:d6abbbf119fda0e76a8733",
+        "android_client_info": {
+          "package_name": "com.popupbits.opentrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159815051722-qs9463vm74n9e8419c99eg4p1aioqkmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Mlf0JwQjfiLzLhmUGSLmsNJaJN2KENU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159815051722-qs9463vm74n9e8419c99eg4p1aioqkmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
